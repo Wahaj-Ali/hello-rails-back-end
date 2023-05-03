@@ -51,11 +51,11 @@
 ## Key Features <a name="key-features"></a>
 
 - Generates random greetings message.
-- 
+  
 ## Front-end App Link <a name="front-end"></a>
 
 
-Get [Front-end app](https://github.com/developertariq/hello-react-front-end)
+Get [Front-end app]()
 
 
 <p align="right"><a href="#readme-top">back to top</a></p>
